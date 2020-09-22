@@ -6,11 +6,11 @@ Extracted data from the CDC, Census, and usa.com to assemble a dataset of over 5
 
 Linear regression, Chi-Square, outlier analysis, and visualizations conducted using Python, Pandas, Plotly, and Matplotlib.
 
-The full presentation of the project can be found here: <link>
+The full presentation of the project can be found here: [Covid-19 Presentation](https://github.com/mocchicone/Covid-19-Outcomes-in-Washington-State/blob/master/COVID-19%20Presentation.pptx)
 
 ## **Summary:** 
 
-Our team was interested in exploring some lesser studied predictor variables for Covid-19 outcomes.  We decided to limit our research to Washington State to reduce the scope of the project.  
+Our team was interested in exploring some lesser studied predictor variables for Covid-19 outcomes.  We decided to focus our research to Washington State to limit the scope of the project.  
 
 ## **Hypotheses:**
 
@@ -24,8 +24,11 @@ Additionally, age and Covid-19 outcomes were examined visually.
 
 ## **Initial Visualizations**
 
-<Poverty Income Heatmap>
-<Political Affiliation Map>
+![Income Heatmap](https://github.com/mocchicone/Covid-19-Outcomes-in-Washington-State/blob/master/Data%20Visualization/Visuals/Household%20Income%20Median.png)    
+    
+![Political Affiliation Map](https://github.com/mocchicone/Covid-19-Outcomes-in-Washington-State/blob/master/Data%20Visualization/Visuals/politics_map.png)
+
+
 <Age and Covid Outcomes>
 
 ## **Analysis and Results**
