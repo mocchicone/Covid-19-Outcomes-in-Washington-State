@@ -1,24 +1,48 @@
 #  **COVID-19 Outcomes in Washington State:**
 
-Analyzed the relationship between political and economic variables and Covid-19 outcomes in Washington State.
+Analyzed Covid-19 data from Washington State to understand the relationship between income, poverty, political affiliation, and age with Covid-19 outcomes: cases, hospitalizations, deaths.
 
-Extracted data from the CDC and Census to assemble a dataset of over 50,000 cases.
+Extracted data from the CDC, Census, and usa.com to assemble a dataset of over 50,000 cases.
 
-Linear regression, outlier analysis, and visualizations conducted using Python, Pandas, and Matplotlib.
+Linear regression, Chi-Square, outlier analysis, and visualizations conducted using Python, Pandas, Plotly, and Matplotlib.
+
+The full presentation of the project can be found here: <link>
 
 ## **Summary:** 
 
-For Washington State counties, determine relationship between:
+Our team was interested in exploring some lesser studied predictor variables for Covid-19 outcomes.  We decided to limit our research to Washington State to reduce the scope of the project.  
 
-1. Political affiliation and Covid outcomes (cases, hospitalizations, deaths)
-    a) a significant difference was found for cases (Republican leaning counties > Democratic leaning counties)
+## **Hypotheses:**
 
-2. Age and Covid outcomes (cases, hospitalizations, deaths)
-    a) Age differences were examined visually
+H1A: Washington counties grouped by political affiliation will show a significant difference in Covid-19 outcomes (cases, hospitalizations, and deaths).
 
-3. Median Household Income and Covid cutcomes (cases, hospitalizations, deaths)
+H2A: Mean household income will negatively correlate to Covid-19 outcomes (cases, hospitalizations, and deaths).
+
+H3A: Poverty rate will positively correlate to Covid-19 outcomes (cases, hospitalizations, and deaths).
+
+Additionally, age and Covid-19 outcomes were examined visually.    
+
+## **Initial Visualizations**
+
+<Poverty Income Heatmap>
+<Political Affiliation Map>
+<Age and Covid Outcomes>
+
+## **Analysis and Results**
+
+<Chi Square>
+<Outliers> 
+<Income and Covid>
+
+## **Conclusions**
+
+
+
     a) for democrat leaning counties income was significantly and positively correllated to all three outcomes.
 
-4. % of households below poverty line and Covid cutcomes (cases, hospitalizations, deaths)
+
     a) for democrat leaning counties poverty rate was significantly and negatively correllated to hospitalizations
 
+
+
+a) a significant difference was found for cases (Republican leaning counties > Democratic leaning counties)
