@@ -1,4 +1,4 @@
-##**UCSD Data Science Bootcamp Project:**
+##  **UCSD Data Science Bootcamp Project:**
 
 For Washington State counties, determine relationship between:
 
