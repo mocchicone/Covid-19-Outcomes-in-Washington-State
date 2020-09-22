@@ -10,7 +10,7 @@ The full presentation of the project can be found here: [Covid-19 Presentation](
 
 ## **Summary:** 
 
-Our team was interested in exploring some lesser studied predictor variables for Covid-19 outcomes.  We decided to limit our research to Washington State to reduce the scope of the project.  
+Our team was interested in exploring some lesser studied predictor variables for Covid-19 outcomes.  We decided to focus our research to Washington State to limit the scope of the project.  
 
 ## **Hypotheses:**
 
