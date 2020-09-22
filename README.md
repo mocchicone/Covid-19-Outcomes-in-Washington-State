@@ -6,7 +6,7 @@ Extracted data from the CDC and Census to assemble a dataset of over 50,000 case
 
 Linear regression, outlier analysis, and visualizations conducted using Python, Pandas, and Matplotlib.
 
-## **Summary: 
+## **Summary:** 
 
 For Washington State counties, determine relationship between:
 
