@@ -6,7 +6,7 @@ Extracted data from the CDC, Census, and usa.com to assemble a dataset of over 5
 
 Linear regression, Chi-Square, outlier analysis, and visualizations conducted using Python, Pandas, Plotly, and Matplotlib.
 
-The full presentation of the project can be found here: <link>
+The full presentation of the project can be found here: https://github.com/mocchicone/Covid-19-Outcomes-in-Washington-State/blob/master/COVID-19%20Presentation.pptx
 
 ## **Summary:** 
 
