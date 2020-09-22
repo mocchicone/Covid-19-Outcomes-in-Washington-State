@@ -28,8 +28,7 @@ Additionally, age and Covid-19 outcomes were examined visually.
     
 ![Political Affiliation Map](https://github.com/mocchicone/Covid-19-Outcomes-in-Washington-State/blob/master/Data%20Visualization/Visuals/politics_map.png)
 
-
-<Age and Covid Outcomes>
+![Political Affiliation Map](https://github.com/mocchicone/Covid-19-Outcomes-in-Washington-State/blob/master/Data%20Visualization/Visuals/Age%20Bar%20Graphs.PNG)
 
 ## **Analysis and Results**
 
