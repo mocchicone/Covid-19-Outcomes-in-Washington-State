@@ -24,8 +24,11 @@ Additionally, age and Covid-19 outcomes were examined visually.
 
 ## **Initial Visualizations**
 
-<Poverty Income Heatmap>
-<Political Affiliation Map>
+![Income Heatmap](https://github.com/mocchicone/Covid-19-Outcomes-in-Washington-State/blob/master/Data%20Visualization/Visuals/Household%20Income%20Median.png)    
+    
+![Political Affiliation Map](https://github.com/mocchicone/Covid-19-Outcomes-in-Washington-State/blob/master/Data%20Visualization/Visuals/politics_map.png)
+
+
 <Age and Covid Outcomes>
 
 ## **Analysis and Results**
