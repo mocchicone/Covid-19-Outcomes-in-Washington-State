@@ -1,1 +1,0 @@
-# project1covid1
