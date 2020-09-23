@@ -43,7 +43,7 @@ Additionally, age and Covid-19 outcomes were examined visually.
 Revisiting our hypotheses, we conclude that: 
 
 *H1A: Washington counties grouped by political affiliation will show a significant difference in Covid-19 outcomes (cases, hospitalizations, and deaths).*
-- A significant difference was found between counties that voted majority republican vs majority democrat, in that reppublican majority counties has a signficantly higher rate of COVID-19 cases.
+- A significant difference was found between counties that voted majority republican vs majority democrat, in that republican majority counties has a signficantly higher rate of COVID-19 cases.
 
 *H2A: Mean household income will negatively correlate to Covid-19 outcomes (cases, hospitalizations, and deaths).*
 -   For democrat leaning counties income was significantly and positively correllated to all three Covid-19 outcomes.  This was the opposite direction of the effect that we predicted.  We investigated one potential confounding predictor variable, population density, which did show as significant positive correlation with hospitalizations.  
