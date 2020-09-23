@@ -26,17 +26,17 @@ Additionally, age and Covid-19 outcomes were examined visually.
 
 After sourcing, cleaning, and merging the data, we reviewed the summary statistics and created several visuals to get a first look at the data.  Some examples are presented below:
 
-**Washington State: Mean Income by County** 
-Here we can see how mean household income is spread accross the state, with more urban areas having a higher mean income.   
+**Washington State: Mean Income by County**  
+Here we can see how mean household income is spread accross the state, with more urban areas having a higher mean income.  Created using Plotly.   
 ![Income Heatmap](https://github.com/mocchicone/Covid-19-Outcomes-in-Washington-State/blob/master/Data%20Visualization/Visuals/Household%20Income%20Median.png)    
    
-    
-
-
-**Washington State: Political Affiliation by County** 
+   
+**Washington State: Political Affiliation by County**  
+A map displaying majority political affiliation by county, based on the most recent sate senate election.  Created using Plotyly.  
 ![Political Affiliation Map](https://github.com/mocchicone/Covid-19-Outcomes-in-Washington-State/blob/master/Data%20Visualization/Visuals/politics_map.png)    
     
-**Washington State: Age Categories by Covid-19 Outcomes**     
+**Washington State: Age Categories by Covid-19 Outcomes**
+Bar graphs for each of the three Covid-19 outcome variables: cases, hosptalizations and deaths.  We can see here that while younger people make up a higher perecentage of cases, older people make up a higher pecentage of deaths.  
 ![Covid Outcomes by Age Bar](https://github.com/mocchicone/Covid-19-Outcomes-in-Washington-State/blob/master/Data%20Visualization/Visuals/Age%20Bar%20Graphs.PNG)    
 
 
