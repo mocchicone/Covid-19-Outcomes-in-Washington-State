@@ -24,11 +24,24 @@ Additionally, age and Covid-19 outcomes were examined visually.
 
 ## **Initial Visualizations**
 
-![Income Heatmap](https://github.com/mocchicone/Covid-19-Outcomes-in-Washington-State/blob/master/Data%20Visualization/Visuals/Household%20Income%20Median.png)    
-    
-![Political Affiliation Map](https://github.com/mocchicone/Covid-19-Outcomes-in-Washington-State/blob/master/Data%20Visualization/Visuals/politics_map.png)
+After sourcing, cleaning, and merging the data, we reviewed the summary statistics and created several visuals to get a first look at the data.  Some examples are presented below:
 
-![Political Affiliation Map](https://github.com/mocchicone/Covid-19-Outcomes-in-Washington-State/blob/master/Data%20Visualization/Visuals/Age%20Bar%20Graphs.PNG)
+**Washington State: Mean Income by County**
+![Income Heatmap](https://github.com/mocchicone/Covid-19-Outcomes-in-Washington-State/blob/master/Data%20Visualization/Visuals/Household%20Income%20Median.png)    
+Here we can see how mean household income is spread accross the state, with more urban areas having a higher mean income.      
+    
+
+
+**Washington State: Political Affiliation by County** 
+![Political Affiliation Map](https://github.com/mocchicone/Covid-19-Outcomes-in-Washington-State/blob/master/Data%20Visualization/Visuals/politics_map.png)    
+    
+**Washington State: Age Categories by Covid-19 Outcomes**     
+![Covid Outcomes by Age Bar](https://github.com/mocchicone/Covid-19-Outcomes-in-Washington-State/blob/master/Data%20Visualization/Visuals/Age%20Bar%20Graphs.PNG)    
+
+
+
+
+
 
 ## **Analysis and Results**
 
