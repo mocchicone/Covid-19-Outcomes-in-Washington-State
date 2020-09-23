@@ -49,7 +49,6 @@ We conducted an outlier analysis and found four counties that met our criteria. 
 **Linear Regression: Income, Poverty, and Population Density vs Covid-19 Outcomes**  
 For democrat majority counties, we found a strong, positive correlation between mean income and all three Covid-19 outcomes.  There was not a significant correlation for republican majorty counties.  As the direction of the effect was in the opposite direction we investigated one potential confounding predictor varialbe: Population Density and found that it did positively correlate with the outome variable hospitalizations.  Created using Matplotlib.    
 ![Income vs Outcomes](https://github.com/mocchicone/Covid-19-Outcomes-in-Washington-State/blob/master/Data%20Visualization/Visuals/Income%20vs%20Outcomes.PNG)
-![Population Density vs Outcomes](https://github.com/mocchicone/Covid-19-Outcomes-in-Washington-State/blob/master/Data%20Visualization/Visuals/Population%20Density.PNG)
 
 **Chi Square: Democrat Majority Counties with Republican Majority Counties**  
 We found a significant difference in Covid-19 cases per 100 thousand population when comparing democrat majority counties and republican majority counties.  Created using Matplotlib.
