@@ -26,9 +26,10 @@ Additionally, age and Covid-19 outcomes were examined visually.
 
 After sourcing, cleaning, and merging the data, we reviewed the summary statistics and created several visuals to get a first look at the data.  Some examples are presented below:
 
-**Washington State: Mean Income by County**
+**Washington State: Mean Income by County** 
+Here we can see how mean household income is spread accross the state, with more urban areas having a higher mean income.   
 ![Income Heatmap](https://github.com/mocchicone/Covid-19-Outcomes-in-Washington-State/blob/master/Data%20Visualization/Visuals/Household%20Income%20Median.png)    
-Here we can see how mean household income is spread accross the state, with more urban areas having a higher mean income.      
+   
     
 
 
