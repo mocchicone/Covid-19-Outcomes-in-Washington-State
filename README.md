@@ -47,12 +47,12 @@ We conducted an outlier analysis and found four counties that met our criteria. 
 ![Outlier2](https://github.com/mocchicone/Covid-19-Outcomes-in-Washington-State/blob/master/Data%20Visualization/Visuals/Outlier%20Analysis2.PNG)
 
 **Linear Regression: Income, Poverty, and Population Density vs Covid-19 Outcomes**  
-For democrat majority counties, we found a strong, positive correlation between mean income and all three Covid-19 outcomes.  There was not a significant correlation for republican majorty counties.  As the direction of the effect was in the opposite direction we investigated one potential confounding predictor varialbe: Population Density and found that it did positively correlate with the outome variable hospitalizations.    
+For democrat majority counties, we found a strong, positive correlation between mean income and all three Covid-19 outcomes.  There was not a significant correlation for republican majorty counties.  As the direction of the effect was in the opposite direction we investigated one potential confounding predictor varialbe: Population Density and found that it did positively correlate with the outome variable hospitalizations.  Created using Matplotlib.    
 ![Income vs Outcomes](https://github.com/mocchicone/Covid-19-Outcomes-in-Washington-State/blob/master/Data%20Visualization/Visuals/Income%20vs%20Outcomes.PNG)
 ![Population Density vs Outcomes](https://github.com/mocchicone/Covid-19-Outcomes-in-Washington-State/blob/master/Data%20Visualization/Visuals/Population%20Density.PNG)
 
 **Chi Square: Democrat Majority Counties with Republican Majority Counties**  
-We found a significant difference in Covid-19 cases per 100 thousand population when comparing democrat majority counties and republican majority counties.  
+We found a significant difference in Covid-19 cases per 100 thousand population when comparing democrat majority counties and republican majority counties.  Created using Matplotlib.
 ![Chi_Square Pie](https://github.com/mocchicone/Covid-19-Outcomes-in-Washington-State/blob/master/Data%20Visualization/Visuals/Chi-Square.PNG)
 
 ## **Conclusions and Insights**  
@@ -71,9 +71,9 @@ Revisiting our hypotheses, we conclude that:
 In conclusion we found evidence that supports our hypothesis that political affiliation may impact Covid-19 outomes at the county level.  We did not find evidence to support our hypotheses that lower income and higher poverty rates is correlated with higher Covid-19 outcomes.  We discovered the effect worked in the opposite direction, and found evidence that population density is a potental confounding predictor variable.
 
 **Project Team Contacts:** 
-Mike Occhicone: mpocchicone@gmail.com
-Drew Gilmore: 
-Nghia Nguyen:
-James Park: 
-Jessie King: 
+Mike Occhicone: mpocchicone@gmail.com  
+Drew Gilmore:   
+Nghia Nguyen:  
+James Park:   
+Jessie King:   
 
