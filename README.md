@@ -70,7 +70,7 @@ Revisiting our hypotheses, we conclude that:
 In conclusion we found evidence that supports our hypothesis that political affiliation may impact Covid-19 outomes at the county level.  We did not find evidence to support our hypotheses that lower income and higher poverty rates is correlated with higher Covid-19 outcomes.  We discovered the effect worked in the opposite direction, and found evidence that population density is a potental confounding predictor variable.
 
 **Project Team Contacts:**   
-Mike Occhicone: mpocchicone@gmail.com  
+Michael Occhicone: mpocchicone@gmail.com  
 Drew Gilmore:   
 Nghia Nguyen:  
 James Park:   
