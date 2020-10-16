@@ -1,4 +1,4 @@
-#  **COVID-19 Outcomes in Washington State:**
+#  **COVID-19 Outcomes in Washington State**
 
 Analyzed Covid-19 data from Washington State to understand the relationship between income, poverty, political affiliation, and age with three Covid-19 outcomes: cases, hospitalizations, deaths.
 
