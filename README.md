@@ -33,7 +33,7 @@ Here we can see how mean household income is spread accross the state, with more
 ![Income Heatmap](https://github.com/mocchicone/Covid-19-Outcomes-in-Washington-State/blob/master/Data%20Visualization/Visuals/Household%20Income%20Median.png)    
      
 **Washington State: Political Affiliation by County**  
-A map displaying majority political affiliation by county, based on the most recent sate senate election.  Created using Plotyly.  
+A map displaying majority political affiliation by county, based on the most recent sate senate election.  Created using Plotly.  
 ![Political Affiliation Map](https://github.com/mocchicone/Covid-19-Outcomes-in-Washington-State/blob/master/Data%20Visualization/Visuals/politics_map.png)    
     
 **Washington State: Age Categories by Covid-19 Outcomes**  
