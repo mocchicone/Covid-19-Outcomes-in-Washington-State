@@ -73,8 +73,8 @@ In conclusion we found evidence that supports our hypothesis that political affi
 
 **Project Team Contacts:**   
 Michael Occhicone: mpocchicone@gmail.com  
-Drew Gilmore: drewpgilmore@gmail.com 
-Nghia Nguyen: nghianguyen214@gmail.com 
+Drew Gilmore: drewpgilmore@gmail.com  
+Nghia Nguyen: nghianguyen214@gmail.com   
 James Park: jamess2eagle@gmail.com     
 Jessie King: jfking109@gmail.com  
 
