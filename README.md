@@ -12,6 +12,8 @@ The full presentation of the project can be found here: [Covid-19 Presentation](
 
 Our team was interested in exploring some lesser studied predictor variables for Covid-19 outcomes.  We decided to focus our research to Washington State to limit the scope of the project.  
 
+*Disclaimer: we have no vested interest in either political party.  The purpose of the project was to showcase our programming and analytic skills. Additionally, this is a cross-sectional analysis and we are observing associations and not causative relationships.* 
+
 ## **Hypotheses:**
 
 H1A: Washington counties grouped by political affiliation will show a significant difference in Covid-19 outcomes (cases, hospitalizations, and deaths).
@@ -71,8 +73,8 @@ In conclusion we found evidence that supports our hypothesis that political affi
 
 **Project Team Contacts:**   
 Michael Occhicone: mpocchicone@gmail.com  
-Drew Gilmore:   
-Nghia Nguyen:  
-James Park:   
-Jessie King:   
+Drew Gilmore: drewpgilmore@gmail.com
+Nghia Nguyen: nghianguyen214@gmail.com 
+James Park: jamess2eagle@gmail.com     
+Jessie King: jfking109@gmail.com  
 
